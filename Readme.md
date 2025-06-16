@@ -1,4 +1,4 @@
-# Run the exampples
+# Run the examples
 ```bash
-elixir .\HelloWorld\hello-world.exs
+elixir HelloWorld/hello-world.exs
 ```
